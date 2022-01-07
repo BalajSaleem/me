@@ -14,7 +14,7 @@ let info = {
     linkedin: "https://www.linkedin.com/in/balajsaleem/",
     github: "https://github.com/BalajSaleem",
     resume:
-      "https://github.com/BalajSaleem/BalajSaleem.github.io/tree/master/src/assets/pdfs/Resume.pdf"
+      "https://github.com/BalajSaleem/me/tree/master/src/assets/pdfs/Resume.pdf"
   },
   education: [
     {
