@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "Balaj Here, I am a focused and result oriented Computer Science graduate from Bilkent University (Ankara, Turkey) working as a Machine Learning Engineer.I am deeply interested in technology that makes makes an impact and changes the world for the better. Deeply interested in Entrepreneurship and AI for good, open to all opportunities that revolve around using technology and softwre to make an impact.<br><br> I have worked with various technologies and organizations working in feilds ranging from Full Stack Development to Machine Learning Engineering and absolutely enjoy solving interesting and challenging problems.",
+    "Balaj Here, I am a focused and result oriented Computer Science graduate from Bilkent University (Ankara, Turkey) working as a Machine Learning Engineer. I am captivated by technology that makes an impact and changes the world for the better. Deeply interested in Entrepreneurship and AI for good, open to all opportunities that allow me to learn, grow and step into unchartered territories. For the past few years, I have been tinkering around machine learning; Systems to detect and segment objects, model's that evolve with data and agents that learn through reinforcement have all peeked my interest<br><br> I have worked with various technologies and organizations in fields ranging from Full Stack Development to Machine Learning Engineering, and have deeply enjoyed solving interesting and challenging problems.",
   links: {
     linkedin: "https://www.linkedin.com/in/balajsaleem/",
     github: "https://github.com/BalajSaleem",
@@ -24,7 +24,7 @@ let info = {
       degree: "Bachelors in Computer Science",
       gpa: "",
       description:
-        "Graduated with Honors from Bachelors of Computer Science at Bilkent University, with a focus on Computer Vission, AI and Machine Learning. Awards: Dean's High Honor List and a Full-ride scholarship",
+        "Graduated with Honors from Bachelors of Computer Science at Bilkent University, with a focus on Computer Vision, AI and Machine Learning. Awards: Dean's High Honor List and a Full-ride scholarship",
       skills: [
         "Artificial Intelligence",
         "Machine Learning",
@@ -54,7 +54,7 @@ let info = {
       date: "Sept, 2020 - Nov, 2020",
       position: "Flutter Developer",
       description:
-        "Worked as the sole Cross Platfrom Mobile (Flutter) developer for a Start-Up aiming to create an appointment / reservation management system for to tap the lucrative market of Barbers Shops and Parlors in Turkey. Developed a cross platform application that barbers / owners would use to manage and create reservations, manage customers, analyse trends and update services and business specifications.",
+        "Worked as the sole Cross Platfrom Mobile (Flutter) developer for a Start-Up aiming to create an appointment / reservation management system for to tap the lucrative market of Barber Shops and Parlors in Turkey. Developed a cross platform application that barbers / owners would use to manage and create reservations, manage customers, analyse trends and update services and business specifications.",
       skills: ["Mobile Development", "Dart", "Flutter", "CI/CD", "BLOC Design Pattern", "Rest APIs", "Object Oriented Design", "Firebase"]
     },
     {
@@ -63,7 +63,7 @@ let info = {
       date: "May, 2019 - July, 2019",
       position: "Full Stack Web Developer",
       description:
-        "Worked as a summer intern in Turkish government's prime R&D institute on a full stack development project. aimed at developing an event management (registration, scheduling and visualization) app using React, Spring and Flutter.",
+        "Worked as a summer intern in Turkish government's prime R&D institute on a full stack development project aimed at developing an event management (registration, scheduling and visualization) app using React, Spring and Flutter.",
       skills: ["Mobile Development", "Full-Stack Development", "Flutter", "Dart", "Java", "Spring Framework", "PostgreSQL", "ReactJS"]
     },
     {
@@ -81,7 +81,7 @@ let info = {
       date: "July, 2019 - Oct, 2019",
       position: "Android Developer",
       description:
-        "Developed and published a robust Android application for school management for multiple branches of Ascend International School to assist the management in decision making and identify improvement factors. Included key data visualizations for stakeholders along with a role based access and authentication, for different actors within a school.",
+        "Developed and published a robust Android application for digital management of multiple branches of Ascend International School to assist the management in decision making and identify improvement factors; included key data visualizations for stakeholders along with a role based access and authentication, for different actors.",
       skills: ["Android Development", "Java", "Kotlin", "Firebase","UI/UX Development", "Software Requirements Management", "Software Architecture Design" ,"Database Management"]
     },
     {
@@ -90,7 +90,7 @@ let info = {
       date: "May, 2019 - July, 2019",
       position: "Game Developer",
       description:
-        "Worked on a project assigned by Turkish Science and Technology Research Council to develop a platform that trains and rehabilitates stroke patients through games by stimulating motor function development. Developed 15 Minigames on Unity and integrated them with a custom hardwrae device using BLE 4.0",
+        "Worked on a project assigned by Turkish Science and Technology Research Council to develop a platform that trains and rehabilitates stroke patients through games by stimulating motor function development. Developed 15 Minigames on Unity and integrated them with a custom hardware device using BLE 4.0.",
       skills: ["Game Development", "Unity", "C#", "BLE 4.0","Object Oriented Programing"]
     },
 
