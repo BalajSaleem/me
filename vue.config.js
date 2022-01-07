@@ -3,7 +3,7 @@ module.exports = {
         config.module.rules.delete('eslint');
     },
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/'
+    ? '/me'
     : '/'
 
 }
