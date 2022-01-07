@@ -1,7 +1,7 @@
 let info = {
   name: "Balaj Saleem",
   logo_name: "balaj",
-  flat_picture: require("./src/assets/potrait.svg"),
+  flat_picture: require("./src/assets/Balaj_Avatar.png"),
   config: {
     use_cookies: true,
     navbar: {
@@ -14,64 +14,39 @@ let info = {
     linkedin: "https://www.linkedin.com/in/balajsaleem/",
     github: "https://github.com/BalajSaleem",
     resume:
-      "https://github.com/hrishikeshpaul/portfolio-template/blob/master/src/assets/pdfs/Resume.pdf"
+      "https://github.com/BalajSaleem/BalajSaleem.github.io/tree/master/src/assets/pdfs/Resume.pdf"
   },
   education: [
     {
-      name: "Indiana University Bloomington",
-      place: "USA",
-      date: "Aug, 2019 - May, 2021",
-      degree: "Masters in Computer Science",
-      gpa: "3.7/4.0",
+      name: "Bilkent University",
+      place: "Ankara, Turkey",
+      date: "Sept, 2017 - June, 2021",
+      degree: "Bachelors in Computer Science",
+      gpa: "3.23/4.0",
       description:
-        "Currently pursuing my Master's in Computer Science, while specializing in the field of Artificial Intelligence and Machine Learning.",
+        "Graduated with Honors from Bachelors of Computer Science at Bilkent University, with a focus on Computer Vission, AI and Machine Learning. Awards: Dean's High Honor List and a Full-ride scholarship",
       skills: [
         "Artificial Intelligence",
-        "Software Engineering",
+        "Machine Learning",
         "Algorithms",
+        "Object Oriented Programming",
+        "Data Structures",
         "Computer Vision",
-        "Music Data Mining",
-        ,
+        "Databases",
+        "Softwared Development Lifecycle",
         "OS"
       ]
     },
-    {
-      name: "Manipal Institute of Technology",
-      place: "India",
-      date: "Aug, 2015 - July, 2019",
-      degree: "Bachelors in Computer and Communication",
-      gpa: "8.0/10.0",
-      description:
-        "Graduated from Manipal Institute of Technology, Manipal with a bachelors degree in Computer and Communications Engineering.",
-      skills: [
-        "AI",
-        "Neural Netwroks",
-        "Data Mining",
-        "Computer Vision",
-        "Pattern Recognition",
-        "HCI",
-        "Software Engineering"
-      ]
-    }
   ],
   experience: [
     {
-      name: "Cyberinfrastructure for Network Science Center",
-      place: "Bloomington, Indiana",
-      date: "Jun, 2020 - Present",
-      position: "Research Assistant; Full Stack Developer",
+      name: "Ango AI",
+      place: "Ankara, Turkey",
+      date: "Nov, 2020 - Present",
+      position: "Machine Learning Engineer",
       description:
-        "Worked as a Software Developer for the Human BioMolecular Atlas Program (funded by the NIH), building innovative visualization tools to envision large biomedical datasets.",
-      skills: ["Angular", "Node.js", "Vega", "Shell", "Typescript"]
-    },
-    {
-      name: "Skylark Drones",
-      place: "Bangalore, India",
-      date: "Jan, 2019 - Jun, 2021",
-      position: "Full Stack Web Developer",
-      description:
-        "Worked as a full stack web developer, implementing various features and fixing bugs for Skylark Drones’ central management system called Operations Portal and Data Mining Server.",
-      skills: ["MongoDB", "Flask", "VueJS", "NGINX"]
+        "Worked as a machine learning engineer, working on key projects and developing Full-Stack AI assisted data labeling tools reducing manual annotation times and observing upto 800% increase in efficiency, while adhering to high data quality standards, giving the company an unparalleled edge in the annotation market allowing faster throughput, and enticing promising funding from global investors.",
+      skills: ["Deep Learning", "Machine Learning", "Computer Vision", "Full-Stack Development", "Python", "React", "AWS", "GCP"]
     },
     {
       name: "Hridayam Soft Solutions",
