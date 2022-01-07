@@ -177,7 +177,7 @@ export default {
             },
             (error) => {
               this.showSnackbar = true;
-              this.snackbarMessage = "Oops! Something went wrong.";
+              this.snackbarMessage = "Oops! The email service isn't feeling too well. Please try reaching out me via email to balajsaleem@live.com";
               this.snackbarColor = "rgb(212, 149, 97)";
             }
           );
