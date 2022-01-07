@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "A focused and result oriented Computer Science graduate from Bilkent University (Ankara, Turkey) working as a Machine Learning Engineer. Interested in technology that makes makes an impact and changes the world for the better. Deeply interested in Entrepreneurship and AI for good, open to all opportunities that revolve around using technology and softwre to make an impact.<br><br> I have worked on various roles ranging from Full Stack Development to Machine Learning engineering and absolutely enjoy solving interesting and challenging problems.",
+    "Balaj Here, I am a focused and result oriented Computer Science graduate from Bilkent University (Ankara, Turkey) working as a Machine Learning Engineer.I am deeply interested in technology that makes makes an impact and changes the world for the better. Deeply interested in Entrepreneurship and AI for good, open to all opportunities that revolve around using technology and softwre to make an impact.<br><br> I have worked with various technologies and organizations working in feilds ranging from Full Stack Development to Machine Learning Engineering and absolutely enjoy solving interesting and challenging problems.",
   links: {
     linkedin: "https://www.linkedin.com/in/balajsaleem/",
     github: "https://github.com/BalajSaleem",
