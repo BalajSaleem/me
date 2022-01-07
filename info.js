@@ -60,7 +60,7 @@ let info = {
     {
       name: "TÜBİTAK - Science and Technology Research Council of Turkey",
       place: "Ankara, Turkey",
-      date: "May, 2017 - July, 2017",
+      date: "May, 2019 - July, 2019",
       position: "Full Stack Web Developer",
       description:
         "Worked as a summer intern in Turkish government's prime R&D institute on a full stack development project. aimed at developing an event management (registration, scheduling and visualization) app using React, Spring and Flutter.",
